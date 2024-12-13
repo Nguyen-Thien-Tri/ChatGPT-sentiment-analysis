@@ -1,7 +1,5 @@
 # ChatGPT-sentiment-analysis
 
-# ChatGPT Sentiment Analysis
-
 This repository contains a real-time sentiment analysis system for analyzing user sentiments about ChatGPT based on Reddit data. The project leverages modern big data and machine learning technologies, such as Apache Kafka and Apache Spark, to stream, process, and visualize sentiment data effectively.
 
 ## Table of Contents
